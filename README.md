@@ -3,6 +3,8 @@
 Crypto data set downloaded from the given location into  local folder
 https://drive.google.com/drive/u/0/folders/18Ds1aTobVbvrXGzNpR9EIAShJ_H0KSSL 
 
+First set variable dir_path to the local directory where ds-data is present 
+
 Function collect_data collects the data from the given local directory containing all the existing json files and returns a data frame
 
 Function collect_single_data is used to test the code for a smaller set of data
